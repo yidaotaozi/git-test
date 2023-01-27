@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Hello git3(这个才是热修复)!");
         System.out.println("Hello push!");
         System.out.println("Hello push1!");
+        system.out.println("Hello pull");
     }
 }
