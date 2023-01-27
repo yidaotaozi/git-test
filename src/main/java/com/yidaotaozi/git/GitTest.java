@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello git2!");
         System.out.println("Hello git(hot-fix)!");
         System.out.println("Hello git3(这个才是热修复)!");
+        System.out.println("Hello push!");
     }
 }
